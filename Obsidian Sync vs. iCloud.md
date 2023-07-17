@@ -1,7 +1,7 @@
 ---
 quickshare-date: 2023-07-17 02:00:28
 quickshare-url: "https://noteshare.space/note/clk6gij2g001701mwnw8t0fwn#5k62fgCmcsTnPJ7MLzQTXh9NwM2Q+Yf8PRDdcM6yp4A"
-share: true
+gitShare: true
 ---
 # Obsidian Sync vs. iCloud
 
@@ -20,5 +20,5 @@ share: true
 | Sync specifics by Device | :far_circle_check: |                    |    Low     | Actually, a little annoying for me.                                                                      |
 | Selective Sync           | :far_circle_check: |                    |    Low     | Space isn't a issue so not warranted for that purpose. Sync does not allow it from a folder in .obsidian |
 
-:moon: 
+:moon: ----
 

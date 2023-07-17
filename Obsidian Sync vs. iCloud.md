@@ -8,18 +8,19 @@ gitShare: true
 |                          |        Sync        |       iCloud       | Importance | Comments                                                                                                 |
 | ------------------------ |:------------------:|:------------------:|:----------:| -------------------------------------------------------------------------------------------------------- |
 | Cost                     |         $          |        Free        |            |                                                                                                          |
-| Icon Shortcode           |                    | :moon: |    Med     | A tool I would love to use without hassle                                                                |
-| Background Syncing       |                    | :moon: |    High    | Obsidean Sync only syncs when the app is open                                                            |
-| Version History          | :moon: |                    |    High    |                                                                                                          |
-| External Drive           | :moon: |                    |    Low     |                                                                                                          |
-| Encrypted                | :moon: | :moon: |    Req     |                                                                                                          |
-| Encrypted at Rest        |         :moon:           | :moon: |    Med     |                                                                                                          |
-| Key Managed by Me        | :moon: |                    |    High    |                                                                                                          |
-| Work Offline             | :moon: | :moon: |    Req     |                                                                                                          |
-| Cross Platform           | :moon: |                    |    Low     |                                                                                                          |
-| Sync specifics by Device | :moon: |                    |    Low     | Actually, a little annoying for me.                                                                      |
-| Selective Sync           | :moon: |                    |    Low     | Space isn't a issue so not warranted for that purpose. Sync does not allow it from a folder in .obsidian |
+| Icon Shortcode           |                    | :green_circle: |    Med     | A tool I would love to use without hassle                                                                |
+| Background Syncing       |                    | :green_circle: |    High    | Obsidean Sync only syncs when the app is open                                                            |
+| Version History          | :green_circle: |                    |    High    |                                                                                                          |
+| External Drive           | :green_circle: |                    |    Low     |                                                                                                          |
+| Encrypted                | :green_circle: | :green_circle: |    Req     |                                                                                                          |
+| Encrypted at Rest        |         :green_circle:           | :green_circle: |    Med     |                                                                                                          |
+| Key Managed by Me        | :green_circle: |                    |    High    |                                                                                                          |
+| Work Offline             | :green_circle: | :green_circle: |    Req     |                                                                                                          |
+| Cross Platform           | :green_circle: |                    |    Low     |                                                                                                          |
+| Sync specifics by Device | :green_circle: |                    |    Low     | Actually, a little annoying for me.                                                                      |
+| Selective Sync           | :green_circle: |                    |    Low     | Space isn't a issue so not warranted for that purpose. Sync does not allow it from a folder in .obsidian |
 
 :moon: -------
 Dude
 Aaa
+-

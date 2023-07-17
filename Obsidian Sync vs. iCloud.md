@@ -23,4 +23,6 @@ gitShare: true
 :moon: -------
 Dude
 Aaa
--
+
+>[!info] wow
+>I wonder if callouts work

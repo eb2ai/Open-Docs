@@ -20,5 +20,5 @@ share: true
 | Sync specifics by Device | :far_circle_check: |                    |    Low     | Actually, a little annoying for me.                                                                      |
 | Selective Sync           | :far_circle_check: |                    |    Low     | Space isn't a issue so not warranted for that purpose. Sync does not allow it from a folder in .obsidian |
 
-
+:moon: 
 
